@@ -79,7 +79,6 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <TextView
-            android:id="@+id/textViewPrev"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
@@ -88,7 +87,7 @@
             android:text="PREVIOUS"
             android:onClick="onPrevious"
             android:textColor="#80FFFFFF"
-            android:textSize="18sp" />
+            android:textSize="18sp"></TextView>
 
         <TextView
             android:id="@+id/textViewNext"
