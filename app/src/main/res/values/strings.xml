@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">AndroidTesting</string>
+    <string name="description">SecondActivityDescription</string>
 </resources>
